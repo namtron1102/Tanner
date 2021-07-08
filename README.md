@@ -1,5 +1,8 @@
 ## Chào mừng!
 
+![code](https://user-images.githubusercontent.com/87124758/124973402-adf09800-e055-11eb-8eee-eb3b1113b5af.gif)
+
+
 ```markdown
 Syntax highlighted code block
 
